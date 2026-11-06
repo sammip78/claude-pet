@@ -1,0 +1,7 @@
+{
+  "name": "pet",
+  "version": "0.2.0",
+  "description": "A tiny pixel you above the prompt that reacts as Claude works. Run /pet with a photo to make yours.",
+  "author": { "name": "Sam Biradar" },
+  "types": "./types/index.d.ts"
+}
